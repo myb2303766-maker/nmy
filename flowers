@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Hoa Mai",
+    "description": "Hoa mai là loài hoa đặc trưng của ngày Tết ở miền Nam Việt Nam, có màu vàng rực rỡ, tượng trưng cho sự may mắn, tài lộc và hạnh phúc.",
+    "image": "https://raw.githubusercontent.com/myb2303766-maker/nmy/main/hoamai.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hoa Hồng",
+    "description": "Hoa hồng là biểu tượng của tình yêu, sự lãng mạn và vẻ đẹp. Mỗi màu hoa hồng mang một ý nghĩa riêng.",
+    "image": "https://raw.githubusercontent.com/myb2303766-maker/nmy/main/hoahong.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hoa Hướng Dương",
+    "description": "Hoa hướng dương luôn hướng về phía mặt trời, tượng trưng cho niềm tin, hy vọng và nghị lực vươn lên.",
+    "image": "https://raw.githubusercontent.com/myb2303766-maker/nmy/main/huongduong.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Hoa Tulip",
+    "description": "Hoa tulip nổi tiếng với vẻ đẹp thanh lịch và nhiều màu sắc, tượng trưng cho tình yêu hoàn hảo và sự hạnh phúc.",
+    "image": "https://raw.githubusercontent.com/myb2303766-maker/nmy/main/tulip.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hoa Sen",
+    "description": "Hoa sen là quốc hoa của Việt Nam, tượng trưng cho sự thanh cao, thuần khiết và ý chí vươn lên trong cuộc sống.",
+    "image": "https://raw.githubusercontent.com/myb2303766-maker/nmy/main/sen.jpg"
+  }
+]
